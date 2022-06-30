@@ -4,4 +4,5 @@ Hello World!
 
 coffee is great
 
-a local edit
+
+Both a local edit and online edit
